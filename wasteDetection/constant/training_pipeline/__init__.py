@@ -11,7 +11,6 @@ DATA_DOWNLOAD_URL: str = "https://drive.google.com/file/d/1ECfl3dtYyfivY8kYPq7RH
 
 
 
-
 """
 Data Validation realted contant start with DATA_VALIDATION VAR NAME
 """
